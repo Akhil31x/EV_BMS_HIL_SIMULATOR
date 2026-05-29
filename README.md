@@ -110,10 +110,3 @@ The prototype successfully demonstrated:
 * Web Dashboard
 * Cloud Analytics
 
-## Author
-
-M. Akhilesh
-
-SRM Institute of Science and Technology
-
-Electronics and Communication Engineering
